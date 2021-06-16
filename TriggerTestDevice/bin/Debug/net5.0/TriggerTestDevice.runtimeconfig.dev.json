@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\raregine\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\raregine\\.nuget\\packages"
+    ]
+  }
+}
