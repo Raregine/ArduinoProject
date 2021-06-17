@@ -15,7 +15,7 @@ namespace TriggerTestDevice
         private static readonly TransportType s_transportType = TransportType.Mqtt;
         private static string s_connectionString = "HostName=dev-iotsolution-iothub.azure-devices.net;DeviceId=TriggerTestDevice;SharedAccessKey=qRVNUAETfPKdaAOmKGcskh49vr8ZFvoey/9gs3lnCPs=";
 
-
+        private static double minTemperature = 20;
         static async Task Main(string[] args)
         {
 
@@ -53,7 +53,7 @@ namespace TriggerTestDevice
         private static async Task SendDeviceToCloudMessagesAsync(CancellationToken ct)
         {
             // Initial telemetry values
-            double minTemperature = 20;
+            //double minTemperature = 20;
             double minHumidity = 60;
             var rand = new Random();
 
@@ -93,10 +93,11 @@ namespace TriggerTestDevice
         {
 
             var data = Encoding.UTF8.GetString(methodRequest.Data);
-
+            
             // Remove quotes from data.
             data = data.Replace("\"", "");
-            ConsoleHelper.WriteGreenMessage("Fan set to: " + data);
+            minTemperature = Convert.ToDouble(data); 
+            ConsoleHelper.WriteGreenMessage("Min Temp set to: " + data);
             string result = "{\"result\":\"Executed\"}";
             return Task.FromResult(new MethodResponse(Encoding.UTF8.GetBytes(result), 200));
             // if (cheeseCave.FanState == StateEnum.Failed)

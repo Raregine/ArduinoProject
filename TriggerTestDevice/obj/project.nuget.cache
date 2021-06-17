@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "enENPdU3yWMY1jj7PmBNLY08l/GPoEa1xX+5P4NNq1kvEKSRm+osE4Bxw7V8UjGcWmDimaFTOLt3k6Kc6GbMxw==",
+  "dgSpecHash": "0UtvhEGoXT8QTZd7SJZ05RpPl5llRoQWWoPwRz695PJYJTDCs+w6kuCwUryyEjgOLBbmGSmxkJ1u9VNv8wQ+xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\raregine\\Documents\\csharp\\TriggerTestDevice\\TriggerTestDevice.csproj",
+  "projectFilePath": "C:\\Users\\raregine\\Documents\\ArduinoProject\\TriggerTestDevice\\TriggerTestDevice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raregine\\.nuget\\packages\\dotnetty.buffers\\0.6.0\\dotnetty.buffers.0.6.0.nupkg.sha512",
     "C:\\Users\\raregine\\.nuget\\packages\\dotnetty.codecs\\0.6.0\\dotnetty.codecs.0.6.0.nupkg.sha512",

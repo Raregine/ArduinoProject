@@ -6401,11 +6401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raregine\\Documents\\csharp\\TriggerTestOperator\\TriggerTestOperator.csproj",
+      "projectUniqueName": "C:\\Users\\raregine\\Documents\\ArduinoProject\\TriggerTestOperator\\TriggerTestOperator.csproj",
       "projectName": "TriggerTestOperator",
-      "projectPath": "C:\\Users\\raregine\\Documents\\csharp\\TriggerTestOperator\\TriggerTestOperator.csproj",
+      "projectPath": "C:\\Users\\raregine\\Documents\\ArduinoProject\\TriggerTestOperator\\TriggerTestOperator.csproj",
       "packagesPath": "C:\\Users\\raregine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raregine\\Documents\\csharp\\TriggerTestOperator\\obj\\",
+      "outputPath": "C:\\Users\\raregine\\Documents\\ArduinoProject\\TriggerTestOperator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raregine\\AppData\\Roaming\\NuGet\\NuGet.Config"

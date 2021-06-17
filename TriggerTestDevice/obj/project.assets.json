@@ -6470,11 +6470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raregine\\Documents\\csharp\\TriggerTestDevice\\TriggerTestDevice.csproj",
+      "projectUniqueName": "C:\\Users\\raregine\\Documents\\ArduinoProject\\TriggerTestDevice\\TriggerTestDevice.csproj",
       "projectName": "TriggerTestDevice",
-      "projectPath": "C:\\Users\\raregine\\Documents\\csharp\\TriggerTestDevice\\TriggerTestDevice.csproj",
+      "projectPath": "C:\\Users\\raregine\\Documents\\ArduinoProject\\TriggerTestDevice\\TriggerTestDevice.csproj",
       "packagesPath": "C:\\Users\\raregine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raregine\\Documents\\csharp\\TriggerTestDevice\\obj\\",
+      "outputPath": "C:\\Users\\raregine\\Documents\\ArduinoProject\\TriggerTestDevice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raregine\\AppData\\Roaming\\NuGet\\NuGet.Config"

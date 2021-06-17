@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5B60qjbrHKOYEkBC6765mzSq0+ewgYxYE0cveHG5t7hBj9aSy9jCdTwPxJ/wAId4L8IAkuHM8dviAnvwrJoXZA==",
+  "dgSpecHash": "w6kYKyb0mmilORs/8Cz5St4vAqipe9hI/OhbUvcstOZUuSuyD4PlJYwBkZTZZ8Hormwn7Vrn75pn2Yr16Jah0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\raregine\\Documents\\csharp\\TriggerTestOperator\\TriggerTestOperator.csproj",
+  "projectFilePath": "C:\\Users\\raregine\\Documents\\ArduinoProject\\TriggerTestOperator\\TriggerTestOperator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raregine\\.nuget\\packages\\azure.core\\1.9.0\\azure.core.1.9.0.nupkg.sha512",
     "C:\\Users\\raregine\\.nuget\\packages\\microsoft.azure.amqp\\2.4.11\\microsoft.azure.amqp.2.4.11.nupkg.sha512",
