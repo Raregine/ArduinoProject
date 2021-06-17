@@ -1,0 +1,16 @@
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\bin\Debug\net5.0\PiDeviceContainer.exe
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\bin\Debug\net5.0\PiDeviceContainer.deps.json
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\bin\Debug\net5.0\PiDeviceContainer.runtimeconfig.json
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\bin\Debug\net5.0\PiDeviceContainer.runtimeconfig.dev.json
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\bin\Debug\net5.0\PiDeviceContainer.dll
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\bin\Debug\net5.0\ref\PiDeviceContainer.dll
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\bin\Debug\net5.0\PiDeviceContainer.pdb
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\obj\Debug\net5.0\PiDeviceContainer.csproj.AssemblyReference.cache
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\obj\Debug\net5.0\PiDeviceContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\obj\Debug\net5.0\PiDeviceContainer.AssemblyInfoInputs.cache
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\obj\Debug\net5.0\PiDeviceContainer.AssemblyInfo.cs
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\obj\Debug\net5.0\PiDeviceContainer.csproj.CoreCompileInputs.cache
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\obj\Debug\net5.0\PiDeviceContainer.dll
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\obj\Debug\net5.0\ref\PiDeviceContainer.dll
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\obj\Debug\net5.0\PiDeviceContainer.pdb
+C:\Users\raregine\Documents\ArduinoProject\PiDeviceContainer\obj\Debug\net5.0\PiDeviceContainer.genruntimeconfig.cache
